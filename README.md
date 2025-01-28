@@ -2,7 +2,7 @@
 Sehan Munir & Daniel Iravani's ICS3U Culminating <br>
 Here is as preview of the game we made: <br>
 <div align="center">
-  <video src="https://github.com/Emera1d3x/Paleontology-Childrens-Game/blob/main/ICS3%20Game%20Demonstration.mp4" width="300">
+  
 </div>
 
 How To Play: <br>
