@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ab2fb0f0-78aa-42ad-98fd-64dff462e3b0)# Paleontology Childrens Game
+# Paleontology Childrens Game
 Sehan Munir & Daniel Iravani's ICS3U Culminating
 Here is as preview of the game we made: 
 
